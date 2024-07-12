@@ -29,4 +29,3 @@
 - **LinkedIn**: [Anton Micheal](https://www.linkedin.com/in/anton-micheal-391a33264/)
 - **GitHub**: [GitHub Profile](https://github.com/settings/profile)
 
-- [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony64tony64)](https://github.com/Tony64tony64/github-readme-stats)
