@@ -1,8 +1,5 @@
 ## Hi I'm Anton 👋
-
 I'm Anton Micheal, a passionate and dedicated Junior Data Analyst with a strong background in Computer Science from Alexandria University. With a GPA of 3.67/4.0, I have honed my analytical and problem-solving skills through both academic and practical experiences.
-
-### 🌟 About Me
 I specialize in transforming complex data into actionable insights, utilizing tools such as SQL, Python, R, Tableau, and Power BI. My journey in data analysis is driven by a deep interest in uncovering patterns and trends that can drive strategic decision-making and operational efficiency.
 
 
