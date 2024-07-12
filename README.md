@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Anton 👋
 
 - 💡 **Passionate and Dedicated**: I am a passionate and dedicated Junior Data Analyst with a strong background in Computer Science from Alexandria University.
 - 🎓 **Education**: GPA of 3.67/4.0, honing my analytical and problem-solving skills through both academic and practical experiences.
